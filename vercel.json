@@ -1,5 +1,5 @@
 {
   "outputDirectory": "dist",
-  "installCommand": "yarn add --omit=dev",
+  "installCommand": "npm i --omit=dev",
   "buildCommand": "npx ts-node scripts/build.ts"
 }
